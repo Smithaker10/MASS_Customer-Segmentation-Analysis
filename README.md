@@ -2,7 +2,7 @@
 
 ## Brief
 
-Welcome to my Customer Segmentation Project! 👋 This project dives into the world of data-driven customer insights, where I use clustering techniques to identify distinct groups of customers based on their demographics, spending habits, and income.
+Welcome to our Customer Segmentation Project! 👋 This project dives into the world of data-driven customer insights, where I use clustering techniques to identify distinct groups of customers based on their demographics, spending habits, and income.
 
 Customer Segmentation Project This project uses Python and KMeans clustering to analyze and segment customers based on spending habits, income, and demographics. It includes API data fetching, preprocessing, and visualization, helping businesses understand customer personas for targeted marketing. Tools: Python, Pandas, scikit-learn, Matplotlib.
 
