@@ -30,8 +30,6 @@ Jupyter Notebook: For an organized and interactive coding environment.
 Pandas & NumPy: To handle data manipulation and preprocessing.
 scikit-learn: For clustering algorithms and scaling.
 Matplotlib & Seaborn: For creating insightful visualizations.
-### Key Takeaways
-This project strengthened my skills in data science, especially in customer segmentation, API integration, and machine learning. It was an amazing experience to work through the entire data pipeline—from fetching raw data to analyzing and visualizing actionable insights.
 
 ### Snapshots 
 ![image](https://github.com/user-attachments/assets/ca91649f-aea0-4f1f-81f1-79332ccd193b)
