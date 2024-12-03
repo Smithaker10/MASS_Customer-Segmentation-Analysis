@@ -13,7 +13,7 @@ Welcome to our Customer Segmentation Project! 👋 This project dives into the w
 Customer Segmentation Project This project uses Python and KMeans clustering to analyze and segment customers based on spending habits, income, and demographics. It includes API data fetching, preprocessing, and visualization, helping businesses understand customer personas for targeted marketing. Tools: Python, Pandas, scikit-learn, Matplotlib.
 
 ## Project Overview
-The goal of this project is to segment customers into meaningful groups, which can help businesses understand their audience better and tailor marketing strategies accordingly. By leveraging KMeans clustering in Python, I created distinct clusters that highlight different types of customer personas—like high spenders, budget-conscious buyers, and more.
+The goal of this project is to segment customers into meaningful groups, which can help businesses understand their audience better and tailor marketing strategies accordingly. By leveraging KMeans clustering in Python, we created distinct clusters that highlight different types of customer personas—like high spenders, budget-conscious buyers, and more.
 
 ## Features
 ### API Data Fetching: 
