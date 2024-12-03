@@ -9,10 +9,10 @@ SMIT THAKER,
  MIHIR.
 
  Team Contribution:-
- smit thaker - programming and execution
- sushant sharma - data research
- mihir  - r&d
- aditya - r&d
+ smit thaker - programming and execution  
+ sushant sharma - data research  
+ mihir  - r&d  
+ aditya - r&d  
 
 Welcome to our Customer Segmentation Project! 👋 This project dives into the world of data-driven customer insights, where we used clustering techniques to identify distinct groups of customers based on their demographics, spending habits, and income.
 
