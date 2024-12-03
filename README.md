@@ -42,5 +42,3 @@ Matplotlib & Seaborn: For creating insightful visualizations.
 
 
 
-## Getting Started
-Clone the repository and check out the notebook to see the full workflow in action! You’ll find all the code and explanations to walk you through the data preparation, clustering process, and visualizations.
