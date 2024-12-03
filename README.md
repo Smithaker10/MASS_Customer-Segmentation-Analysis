@@ -2,17 +2,17 @@
 
 ## Brief
 
-TEAM MASS:-
+TEAM MASS:-  
 SMIT THAKER  
 SUSHANT SHARMA    
 ADITYA  
 MIHIR   
 
- Team Contribution:-  
- smit thaker - programming and execution  
- sushant sharma -visualisation 
- mihir  - data research
- aditya - r&d  
+ Team Contribution:-    
+ smit thaker - programming and execution    
+ sushant sharma -visualisation   
+ mihir  - data research    
+ aditya - r&d      
 
 Welcome to our Customer Segmentation Project! 👋 This project dives into the world of data-driven customer insights, where we used clustering techniques to identify distinct groups of customers based on their demographics, spending habits, and income.
 
