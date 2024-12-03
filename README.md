@@ -40,5 +40,9 @@ Matplotlib & Seaborn: For creating insightful visualizations.
 
 ![image](https://github.com/user-attachments/assets/42e3c508-2725-4d9d-9602-053c8f6a8d45)
 
+## Getting Started
+check out the notebook to see the full workflow in action!!!
+
+
 
 
