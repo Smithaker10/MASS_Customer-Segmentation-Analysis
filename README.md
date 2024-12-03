@@ -3,7 +3,7 @@
 ## Brief
 
 TEAM MASS:-
-SMIT.J.THAKER,
+SMIT THAKER,
  SUSHANT SHARMA,
  ADITYA CHELANI,
  MIHIR PATEL.
@@ -40,7 +40,9 @@ Matplotlib & Seaborn: For creating insightful visualizations.
 
 ![image](https://github.com/user-attachments/assets/42e3c508-2725-4d9d-9602-053c8f6a8d45)
 
-
-
 ## Getting Started
-Clone the repository and check out the notebook to see the full workflow in action! You’ll find all the code and explanations to walk you through the data preparation, clustering process, and visualizations.
+check out the notebook to see the full workflow in action!!!
+
+
+
+
