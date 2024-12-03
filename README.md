@@ -3,12 +3,12 @@
 ## Brief
 
 TEAM MASS:-
-SMIT THAKER,
- SUSHANT SHARMA,
- ADITYA CHELANI,
- MIHIR.
+SMIT THAKER  
+SUSHANT SHARMA    
+ADITYA  
+MIHIR   
 
- Team Contribution:-
+ Team Contribution:-  
  smit thaker - programming and execution  
  sushant sharma - data research  
  mihir  - r&d  
